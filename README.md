@@ -1,21 +1,19 @@
-# 花型预览
-![1](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094003_1_245.jpg)
-![2](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094004_2_245.jpg)
-![3](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094005_3_245.jpg)
-![4](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094006_4_245.jpg)
-![5](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094007_5_245.jpg)
-![6](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094008_6_245.jpg)
-![7](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094009_7_245.jpg)
-![8](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094010_8_245.jpg)
-![9](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094011_9_245.jpg)
-![10](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094012_10_245.jpg)
-![11](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094013_11_245.jpg)
-![12](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094014_12_245.jpg)
-![13](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094015_13_245.jpg)
-![14](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094016_14_245.jpg)
-![15](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094017_15_245.jpg)
-![16](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094018_16_245.jpg)
-![17](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094019_17_245.jpg)
-![18](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094020_18_245.jpg)
-![19](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094021_19_245.jpg)
-![20](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094022_20_245.jpg)
+# 华兴苏才图 - 花型素材预览
+> 点击图片可查看大图，按批次展示，加载更流畅
+
+## 第一批（1-20张）
+![花型1](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094003_1_245.jpg)
+![花型2](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094004_2_245.jpg)
+![花型3](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094005_3_245.jpg)
+...（按这个格式写满20张，每一张都用自己的原始链接）
+
+## 第二批（21-40张）
+![花型21](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094023_21_245.jpg)
+...（同理，写21-40张）
+
+## 第三批（41-60张）
+...
+## 第四批（61-80张）
+...
+## 第五批（81-100张）
+...
