@@ -1,11 +1,16 @@
 # huaxingsucaitu
 花型素材图
 # 华兴苏才图 · 花型素材图
-> 花型素材预览，无需点进文件即可查看和识别。
+> 花型素材预览，无需点进文件即可查看和识别（点击分组展开/收起）。
 
 ---
 
 ## 花型预览列表
+
+### 🔍 第1-20张花型
+<details open>
+<summary>点击收起/展开（默认展开）</summary>
+
 ### 1. 花型素材 1
 ![花型素材 1](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094003_1_245.jpg)
 - 适用场景：待补充
@@ -105,6 +110,12 @@
 ![花型素材 20](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094022_20_245.jpg)
 - 适用场景：待补充
 - 风格：待补充
+
+</details>
+
+### 🔍 第21-40张花型
+<details>
+<summary>点击展开/收起</summary>
 
 ### 21. 花型素材 21
 ![花型素材 21](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094023_21_245.jpg)
@@ -206,6 +217,12 @@
 - 适用场景：待补充
 - 风格：待补充
 
+</details>
+
+### 🔍 第41-60张花型
+<details>
+<summary>点击展开/收起</summary>
+
 ### 41. 花型素材 41
 ![花型素材 41](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094043_41_245.jpg)
 - 适用场景：待补充
@@ -305,6 +322,12 @@
 ![花型素材 60](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094102_60_245.jpg)
 - 适用场景：待补充
 - 风格：待补充
+
+</details>
+
+### 🔍 第61-80张花型
+<details>
+<summary>点击展开/收起</summary>
 
 ### 61. 花型素材 61
 ![花型素材 61](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094103_61_245.jpg)
@@ -406,6 +429,12 @@
 - 适用场景：待补充
 - 风格：待补充
 
+</details>
+
+### 🔍 第81-100张花型
+<details>
+<summary>点击展开/收起</summary>
+
 ### 81. 花型素材 81
 ![花型素材 81](https://raw.githubusercontent.com/Taojiaxing03/Huaxingsucaitu/main/微信图片_20260302094123_81_245.jpg)
 - 适用场景：待补充
@@ -506,7 +535,11 @@
 - 适用场景：待补充
 - 风格：待补充
 
+</details>
+
 ---
 
-> 如需高清原图，可点击对应图片文件名下载。
-> 可根据实际花型特征，修改「适用场景」和「风格」字段，方便快速识别。
+> 📌 说明：
+> 1. 如需高清原图，可点击对应图片文件名下载；
+> 2. 可根据花型特征修改「适用场景」「风格」字段，方便快速识别；
+> 3. 折叠分组可避免页面加载过慢，按需展开查看即可。
